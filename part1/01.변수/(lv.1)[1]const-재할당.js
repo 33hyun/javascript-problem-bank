@@ -8,7 +8,9 @@
 
 function reassignConst() {
   // TODO
+  const a = 1
+  a = 2;
 }
-
+console.log(reassignConst);
 // export 를 수정하지 마세요.
 export { reassignConst };
